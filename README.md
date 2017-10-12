@@ -1,4 +1,6 @@
 # Blockchain API Library (Node, v1)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsunit4155%2Fapi-v1-client-node.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsunit4155%2Fapi-v1-client-node?ref=badge_shield)
+
 
 An official Node module for interacting with the Blockchain.info API.
 
@@ -45,3 +47,7 @@ Property import:
 ```js
 var MyWallet = require('blockchain.info').MyWallet
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsunit4155%2Fapi-v1-client-node.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsunit4155%2Fapi-v1-client-node?ref=badge_large)
